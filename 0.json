@@ -1,8 +1,7 @@
-// 0.json
 {
   "name": "Main Street Property",
   "description": "Residential building at 123 Main St",
   "propertyAddress": "123 Main St",
   "propertyValue": "100000 ETH",
-  "image": "https://your-server.com/images/main_st.jpg"
+  "image": "https://dangan114.github.io/FI8462-Property-Token-Metadata/images/TRUST THE PROCESS.png"
 }
